@@ -8,7 +8,7 @@ creator:
     agent_name: Chadwick, G. A. (George Alexander)
     alias: Chadwick, George Alexander
     birthdate: 1840
-    deathdate: &id001 1923
+    deathdate: 1923
     gutenberg_agent_id: '36396'
     url: http://www.gutenberg.org/2009/agents/36396
   editor:
@@ -18,10 +18,12 @@ creator:
     - Clear, Claudius
     - Wace, Walter E.
     birthdate: 1851
-    deathdate: *id001
+    deathdate: 1923
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33420#The-Expositor-s-Bible--The-Book-of-Exodus
 gutenberg_issued: '2010-08-13'
 gutenberg_type: Text
 identifiers:
