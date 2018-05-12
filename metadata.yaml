@@ -1,0 +1,37 @@
+_repo: The-Expositor-s-Bible--The-Book-of-Exodus_33420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chadwick, G. A. (George Alexander)
+    alias: Chadwick, George Alexander
+    birthdate: 1840
+    deathdate: &id001 1923
+    gutenberg_agent_id: '36396'
+    url: http://www.gutenberg.org/2009/agents/36396
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Nicoll, William Robertson, Sir
+    - Clear, Claudius
+    - Wace, Walter E.
+    birthdate: 1851
+    deathdate: *id001
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2010-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Exodus -- Commentaries'
+title: 'The Expositor''s Bible: The Book of Exodus'
+url: http://www.gutenberg.org/ebooks/33420
